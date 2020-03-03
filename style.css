@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#Titel{
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 100%;
+  height: 50px;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+.Top{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Tussentitel{
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+.Icons{
+  display: inline-block;
+  margin: 0px;
+  width: 70px;
+  height: auto;
+  text-align: center;
+}
+.Text{
+  font-size: 10px;
+  width: 250px;
+  display: inline-block;
+  height: auto;
+  word-break: keep-all;
+  word-wrap: break-word;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+.HobbyList{
+  font-size: 10px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding: 0px;
+  display: inline;
+  color: #000000;
+}
