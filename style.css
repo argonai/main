@@ -20,7 +20,7 @@ body {
   margin-bottom: 0px;
 }
 .Tussentitel{
-  font-size: 16px;
+  font-size: 21px;
   font-family: 'Lato', sans-serif;
   color: #000000;
 }
@@ -32,7 +32,7 @@ body {
   text-align: center;
 }
 .Text{
-  font-size: 10px;
+  font-size: 13px;
   width: 250px;
   display: inline-block;
   height: auto;
@@ -43,7 +43,7 @@ body {
   color: #000000;
 }
 .HobbyList{
-  font-size: 10px;
+  font-size: 13px;
   width: 100px;
   height: 100px;
   text-align: center;
