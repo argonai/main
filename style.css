@@ -5,6 +5,10 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+::selection {
+  color: white;
+  background: black;
+}
 #Titel{
   background-color: #000000;
   color: #FFFFFF;
