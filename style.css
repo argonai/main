@@ -13,20 +13,22 @@ body {
   background-color: #000000;
   color: #FFFFFF;
   width: 100%;
-  height: 50px;
+  height: 60px;
   margin: 0px;
   padding: 0px;
   font-family: 'Lato', sans-serif;
   text-align: center;
+  font-size: 40px;
 }
 .Top{
   margin-top: 0px;
   margin-bottom: 0px;
 }
 .Tussentitel{
-  font-size: 21px;
+  font-size: 24px;
   font-family: 'Lato', sans-serif;
   color: #000000;
+  margin: 20px;
 }
 .Icons{
   display: inline-block;
@@ -36,8 +38,8 @@ body {
   text-align: center;
 }
 .Text{
-  font-size: 13px;
-  width: 250px;
+  font-size: 15px;
+  width: 255px;
   display: inline-block;
   height: auto;
   word-break: keep-all;
